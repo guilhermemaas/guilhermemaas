@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guilhermemaas&count_private=true)
+### Atividades Rescentes
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermemaas&theme=dracula&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
