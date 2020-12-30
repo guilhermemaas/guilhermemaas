@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Atividades Rescentes
+### Atividades Recentes
 <center>
 <table>
   <tr>
