@@ -12,5 +12,5 @@ Atualmente estou focado em aprender mais sobre DevOps e como essa cultura pode i
 * Cloud DevOps Engineer Nanodegree - Udacity.
 
 <left>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=blue-green">
+<img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=blue-green">
 </left>
