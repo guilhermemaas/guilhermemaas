@@ -1,26 +1,17 @@
-### Hi there 👋
+### Guilherme Maas
 
-<!--
-**guilhermemaas/guilhermemaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa caminhada já tive a oportunidade de atuar em vários segmentos de software. De postos de gasolina até a maior cervejaria do mundo.
 
-Here are some ideas to get you started:
+Isso tudo me proporcionou um leque grande de vivências e habilidades, e realmente sou muito grato por isso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou focado em aprender mais sobre DevOps e como essa cultura pode impactar a maneira de como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
 
-### Atividades Recentes
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=dracula" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermemaas&theme=dracula&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
+Treinamentos em andamento:
+AWS Expert - Linux Tips.
+Containers Expert: Docker, Kubernetes e Istio - Linux Tips.
+Cloud DevOps Engineer Nanodegree - Udacity.
+
+### Meus status:
+<left>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=blue-green">
+</left>
