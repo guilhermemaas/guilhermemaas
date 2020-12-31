@@ -20,7 +20,7 @@ Atualmente estou focado em aprender mais sobre DevOps e como essa cultura pode i
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="ttps://badges.frapsoft.com/bash/v1/bash.png?v=103">
+    <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103">
 </div>
 
 ### Treinamentos em andamento:
