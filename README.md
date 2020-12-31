@@ -7,10 +7,7 @@ Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa ca
 
 Isso tudo me proporcionou um leque grande de vivências e habilidades, e realmente sou muito grato por isso.
 
-Atualmente estou focado em aprender mais sobre DevOps e como essa cultura pode impactar a maneira de como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
-
-# Minhas especialidades:
-
+Atualmente estou focado em aprender mais sobre DevOps e como essa cultura pode impactar a maneira em como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
 
 # Treinamentos em andamento
 * AWS Expert - Linux Tips.
