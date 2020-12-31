@@ -27,9 +27,9 @@ Atualmente estou focado em aprender mais sobre a cultura DevOps, as tecnologias 
 </div>
 
 ### Treinamentos em andamento:
-* AWS Expert - Linux Tips.
-* Containers Expert: Docker, Kubernetes e Istio - Linux Tips.
-* Cloud DevOps Engineer Nanodegree - Udacity.
+* <a href="https://www.linuxtips.io/product-page/aws-expert-1">AWS Expert - Linux Tips</a>.
+* <a href="https://www.linuxtips.io/product-page/container-expert">Containers Expert: Docker, Kubernetes e Istio - Linux Tips</a>.
+* <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">Cloud DevOps Engineer Nanodegree - Udacity</a>.
 
 
 ### Meus status:
