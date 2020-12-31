@@ -3,7 +3,7 @@
 
 Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa caminhada já tive a oportunidade de atuar em vários segmentos de software. De postos de gasolina até a maior cervejaria do mundo.
 
-Isso tudo me proporcionou um leque grande de vivências e habilidades, e realmente sou muito grato por isso.
+Isso tudo me proporcionou um leque de vivências e habilidades, e realmente sou muito grato por isso.
 
 Atualmente estou focado em aprender mais sobre a cultura DevOps, as tecnologias que a permeiam e como isso impacta a maneira em como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
 
