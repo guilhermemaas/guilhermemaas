@@ -5,7 +5,7 @@ Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa ca
 
 Isso tudo me proporcionou um leque de vivências e habilidades, e realmente sou muito grato por isso.
 
-Atualmente estou focado em aprender mais sobre a cultura DevOps, as tecnologias que a permeiam e como isso impacta a maneira em como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
+Atualmente estou focado em aprender mais sobre a cultura DevOps, as tecnologias que a permeiam e como isso impacta em como entregamos valor através de um ambiente de trabalho ágil e colaborativo.
 
 ### Minha stack:
 <div>
