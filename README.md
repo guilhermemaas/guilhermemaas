@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Maas-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermemaas/)](https://www.linkedin.com/in/guilhermemaas/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.maas@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.maas@gmail.com)](mailto:guilherme.maas@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-guilherme.maas@gmail.com-6633cc?style=flat-square&logo=Discord&logoColor=white&link=mailto:guilherme.maas@gmail.com)](mailto:guilherme.maas@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Guilherme Maas#6196-6633cc?style=flat-square&logo=Discord&logoColor=white&link=)]
 
 Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa caminhada já tive a oportunidade de atuar em vários segmentos de software. De postos de gasolina até a maior cervejaria do mundo.
 
