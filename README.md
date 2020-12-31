@@ -20,7 +20,7 @@ Atualmente estou focado em aprender mais sobre a cultura DevOps, as tecnologias 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://www.interserver.net/tips/wp-content/uploads/2019/01/zabbix_logo_500x131.png" width="85" height="28"/>
+    <img src="https://www.interserver.net/tips/wp-content/uploads/2019/01/zabbix_logo_500x131.png" width="89" height="28"/>
     <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" width="96" height="28"/>
     <img src="https://www.mvps.net/docs/wp-content/uploads/2019/05/grafana.png" width="96" height="28"/>
     <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103">
