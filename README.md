@@ -23,12 +23,7 @@ Atualmente focado em aprender mais sobre a cultura DevOps e as tecnologias que a
 </div>
 
 ### Meus status:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=midnight-purple" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermemaas&theme=midnight-purple&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
-
+<div>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=midnight-purple" />
+    <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermemaas&theme=midnight-purple&show_icons=true" />
+</div>
