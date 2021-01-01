@@ -22,6 +22,7 @@ Atualmente focado em aprender mais sobre a cultura DevOps e as tecnologias que a
     <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103">
 </div>
 
+### Meus status:
 <div>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=midnight-purple" />
 </div>
