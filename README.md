@@ -26,12 +26,6 @@ Atualmente estou focado em aprender mais sobre a cultura DevOps e as tecnologias
     <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103">
 </div>
 
-### Treinamentos em andamento:
-* <a href="https://www.linuxtips.io/product-page/aws-expert-1">AWS Expert - Linux Tips</a>.
-* <a href="https://www.linuxtips.io/product-page/container-expert">Containers Expert: Docker, Kubernetes e Istio - Linux Tips</a>.
-* <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">Cloud DevOps Engineer Nanodegree - Udacity</a>.
-
-
 ### Meus status:
 <center>
 <table>
