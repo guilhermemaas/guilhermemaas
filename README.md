@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.maas@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.maas@gmail.com)](mailto:guilherme.maas@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@guilhermemaas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/guilhermemaas)](https://twitter.com/guilhermemaas) 
 
-Atualmente estou focado em aprender mais sobre a cultura DevOps e as tecnologias que a permeiam.
+Atualmente focado em aprender mais sobre a cultura DevOps e as tecnologias que a permeiam.
 
 ### Minha stack:
 <div>
