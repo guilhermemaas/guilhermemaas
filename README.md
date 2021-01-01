@@ -2,10 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.maas@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.maas@gmail.com)](mailto:guilherme.maas@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@guilhermemaas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/guilhermemaas)](https://twitter.com/guilhermemaas) 
 
-Meu nome é Guilherme, tenho 29 anos e atuo na área de TI desde os 19. Nessa caminhada já tive a oportunidade de atuar em vários segmentos de software. De postos de gasolina até a maior cervejaria do mundo.
-
-Isso tudo me proporcionou um leque de vivências e habilidades, e realmente sou muito grato por isso.
-
 Atualmente estou focado em aprender mais sobre a cultura DevOps e as tecnologias que a permeiam.
 
 ### Minha stack:
