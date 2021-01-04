@@ -4,7 +4,7 @@
 
 Currently focused on learning more about the DevOps culture and the technologies that permeate it.
 
-### Minha stack:
+### My stack:
 <div>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -22,7 +22,7 @@ Currently focused on learning more about the DevOps culture and the technologies
     <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103">
 </div>
 
-### Meus status:
+### My status:
 <div>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=midnight-purple" />
 </div>
