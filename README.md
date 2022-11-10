@@ -8,3 +8,24 @@ Currently focused on learning more about the DevOps culture and the technologies
 <div>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemaas&hide=html&layout=compact&theme=midnight-purple" />
 </div>
+
+           __
+.-.__      \ .-.  ___  __
+|_|  '--.-.-(   \/\;;\_\.-._______.-.
+(-)___     \ \ .-\ \;;\(   \       \ \
+ Y    '---._\_((Q)) \;;\\ .-\     __(_)
+ I           __'-' / .--.((Q))---'    \,
+ I     ___.-:    \|  |   \'-'_          \
+ A  .-'      \ .-.\   \   \ \ '--.__     '\
+ |  |____.----((Q))\   \__|--\_      \     '
+    ( )        '-'  \_  :  \-' '--.___\
+     Y                \  \  \       \(_)
+     I                 \  \  \         \,
+     I                  \  \  \          \
+     A                   \  \  \          '\
+     |              snd   \  \__|           '
+                           \_:.  \
+                             \ \  \
+                              \ \  \
+                               \_\_|
+
